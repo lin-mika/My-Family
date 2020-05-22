@@ -45,12 +45,12 @@ body
     margin: 0;
     padding-left: 0;
     color: #696969;
-    font size: 40;
+    font-size: x-large;
 }
 .box .content p
 {
     margin: 0;
     padding: 10px 0 0;
     text-align: justify;
-    font size: 30;
+    font-size: large;
 }
