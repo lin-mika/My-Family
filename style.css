@@ -33,7 +33,7 @@ body
 
 .box .imgBx img
 {
-    max-width: 100%;
+    max-width: 200%;
 }
 .box .content 
 {
@@ -44,12 +44,12 @@ body
     margin: 0;
     padding-left: 0;
     color: #A9A9A9;
-    font size: 30;
+    font size: 40;
 }
 .box .content p
 {
     margin: 0;
     padding: 10px 0 0;
     text-align: justify;
-    font size: 22;
+    font size: 30;
 }
