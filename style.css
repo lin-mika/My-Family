@@ -33,10 +33,11 @@ body
 
 .box .imgBx img
 {
-    max-width: 200%;
+    float: left;
 }
 .box .content 
 {
+    float: right;
     padding-left: 20px;
 }
 .box .content h2
