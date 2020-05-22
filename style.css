@@ -15,8 +15,8 @@ body
     padding: 20px;
     bos-sizing: border-box;
     background: #fff;
-    border-radius: 4px;
-    box-shadow:0 5px 15px rbga(0,0,0,.5);
+    border-radius: 6px;
+    box-shadow:0 5px 15px rgba(0,0,0,.5);
     display: flex;
     transition: 0.5s;
 }
@@ -26,31 +26,30 @@ body
 }
 .box .imgBx
 {
-    width: 171px;
-    hight: 334px;
-    flex: 0 0 150px
+    width: 342px;
+    hight: 668px;
+    flex: 0 0 150px;
 }
-
 .box .imgBx img
 {
-    float: left;
+    max-width: 200%;
 }
 .box .content 
 {
-    float: right;
-    padding-left: 20px;
+    padding-left: 150px;
 }
-.box .content h2
+.box .content h1
 {
     margin: 0;
-    padding-left: 0;
+    padding: 5% 10%;
     color: #696969;
-    font-size: x-large;
+    ffont-size:x-large;
 }
 .box .content p
 {
+    font-family: "Lucida Console", Courier, monospace;
     margin: 0;
-    padding: 10px 0 0;
+    padding: 10px 35px 3px;
     text-align: justify;
-    font-size: large;
+    font-size:large;
 }
